@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/poolpack/static/css/main.a32e4474.chunk.css",
-    "main.js": "/poolpack/static/js/main.cd8f2aa0.chunk.js",
-    "main.js.map": "/poolpack/static/js/main.cd8f2aa0.chunk.js.map",
-    "runtime-main.js": "/poolpack/static/js/runtime-main.a22d7f66.js",
-    "runtime-main.js.map": "/poolpack/static/js/runtime-main.a22d7f66.js.map",
-    "static/js/2.ad79b407.chunk.js": "/poolpack/static/js/2.ad79b407.chunk.js",
-    "static/js/2.ad79b407.chunk.js.map": "/poolpack/static/js/2.ad79b407.chunk.js.map",
-    "static/js/3.3a73c7ce.chunk.js": "/poolpack/static/js/3.3a73c7ce.chunk.js",
-    "static/js/3.3a73c7ce.chunk.js.map": "/poolpack/static/js/3.3a73c7ce.chunk.js.map",
-    "index.html": "/poolpack/index.html",
-    "static/css/main.a32e4474.chunk.css.map": "/poolpack/static/css/main.a32e4474.chunk.css.map",
-    "static/js/2.ad79b407.chunk.js.LICENSE.txt": "/poolpack/static/js/2.ad79b407.chunk.js.LICENSE.txt",
-    "static/media/calendar.02f14ef6.svg": "/poolpack/static/media/calendar.02f14ef6.svg",
-    "static/media/downward.f1496233.svg": "/poolpack/static/media/downward.f1496233.svg",
-    "static/media/framecoin.9ea347e2.svg": "/poolpack/static/media/framecoin.9ea347e2.svg",
-    "static/media/refferal.30f01c74.svg": "/poolpack/static/media/refferal.30f01c74.svg"
+    "main.css": "/poolapack/static/css/main.3c25fb71.chunk.css",
+    "main.js": "/poolapack/static/js/main.ee12bf36.chunk.js",
+    "main.js.map": "/poolapack/static/js/main.ee12bf36.chunk.js.map",
+    "runtime-main.js": "/poolapack/static/js/runtime-main.ac6113a4.js",
+    "runtime-main.js.map": "/poolapack/static/js/runtime-main.ac6113a4.js.map",
+    "static/js/2.ad79b407.chunk.js": "/poolapack/static/js/2.ad79b407.chunk.js",
+    "static/js/2.ad79b407.chunk.js.map": "/poolapack/static/js/2.ad79b407.chunk.js.map",
+    "static/js/3.3a73c7ce.chunk.js": "/poolapack/static/js/3.3a73c7ce.chunk.js",
+    "static/js/3.3a73c7ce.chunk.js.map": "/poolapack/static/js/3.3a73c7ce.chunk.js.map",
+    "index.html": "/poolapack/index.html",
+    "static/css/main.3c25fb71.chunk.css.map": "/poolapack/static/css/main.3c25fb71.chunk.css.map",
+    "static/js/2.ad79b407.chunk.js.LICENSE.txt": "/poolapack/static/js/2.ad79b407.chunk.js.LICENSE.txt",
+    "static/media/calendar.64fa5419.svg": "/poolapack/static/media/calendar.64fa5419.svg",
+    "static/media/downward.2185a680.svg": "/poolapack/static/media/downward.2185a680.svg",
+    "static/media/framecoin.f75cf6b5.svg": "/poolapack/static/media/framecoin.f75cf6b5.svg",
+    "static/media/refferal.20bdd7d5.svg": "/poolapack/static/media/refferal.20bdd7d5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a22d7f66.js",
+    "static/js/runtime-main.ac6113a4.js",
     "static/js/2.ad79b407.chunk.js",
-    "static/css/main.a32e4474.chunk.css",
-    "static/js/main.cd8f2aa0.chunk.js"
+    "static/css/main.3c25fb71.chunk.css",
+    "static/js/main.ee12bf36.chunk.js"
   ]
 }
