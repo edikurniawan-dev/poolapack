@@ -1,6 +1,8 @@
-# How to run this app
+## How to run this app
 
-## First
+Actually this page is already online with url https://edikurniawan-dev.github.io/poolapack. But you can run this app in your local machine with following steps:
+
+### First
 
 Clone this repository to your local machine
 
