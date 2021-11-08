@@ -9,7 +9,7 @@ module.exports = {
                     DEFAULT: '#FAC519',
                     light: '#FACB33',
                     lighter: '#FBD24D',
-                    lightest: '#FBD866',
+                    lightest: '#FEF5D9',
                 },
                 secondary: {
                     dark: '#4B1412',
@@ -26,7 +26,7 @@ module.exports = {
                     lightest: '#EAFAF6',
                 },
                 text: '#221F1F',
-                'suble-text': '#8C8CA1',
+                'subtle-text': '#8C8CA1',
                 accent: '#ECF1F4',
                 'accent-warning': '#D2202F',
                 'accent-ready': '#54A68D',
@@ -40,10 +40,15 @@ module.exports = {
                 small: '14px',
                 smaller: '10px',
             },
+            screens: {
+                xms: '360px',
+            },
         },
     },
     variants: {
-        extend: {},
+        extend: {
+            borderWidth: ['hover', 'focus'],
+        },
     },
     plugins: [],
 };
