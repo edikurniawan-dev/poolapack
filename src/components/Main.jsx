@@ -60,7 +60,7 @@ const Main = () => {
                         date="Jumat, 29 Oktober 2021"
                         time="12:38 wib"
                         icon={Cashback}
-                        description="Refferal"
+                        description="Cashback"
                         point="100.000"
                     />
                     <List
@@ -74,14 +74,14 @@ const Main = () => {
                         date="Jumat, 29 Oktober 2021"
                         time="12:38 wib"
                         icon={Cashback}
-                        description="Refferal"
+                        description="Cashback"
                         point="100.000"
                     />
                     <List
                         date="Jumat, 29 Oktober 2021"
                         time="12:38 wib"
                         icon={Cashback}
-                        description="Refferal"
+                        description="Cashback"
                         point="100.000"
                     />
                 </div>

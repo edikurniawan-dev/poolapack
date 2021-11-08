@@ -4,7 +4,7 @@ import Logo from '../assets/logo.png';
 const Header = () => {
     return (
         <div className="container mx-auto px-2 md:px-16 flex justify-between items-center h-28">
-            <a href="/poolpack" className="">
+            <a href="/poolapack" className="">
                 <img src={Logo} alt="" />
             </a>
 
