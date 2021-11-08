@@ -1,4 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
+import DatePicker from 'react-datepicker';
+import '../assets/css/react-datepicker.css';
 import List from './List';
 
 import Coint from '../assets/framecoin.svg';
@@ -8,6 +10,9 @@ import Refferal from '../assets/refferal.svg';
 import Cashback from '../assets/cashback.png';
 
 const Main = () => {
+    const [dateRange, setDateRange] = useState([null, null]);
+    const [startDate, endDate] = dateRange;
+
     return (
         <div className="container mx-auto px-2 md:px-16 flex flex-col py-5">
             <h2 className="text-larger font-bold mb-3">poolpoint</h2>
@@ -43,9 +48,19 @@ const Main = () => {
                                 Point Keluar
                             </button>
                         </div>
-                        <button className="flex justify-between items-center space-x-1 border border-primary px-2 sm:px-1 lg:px-3 py-3 text-primary-dark rounded-lg mt-4 sm:mt-0 lg:mt-4 xl:mt-0">
+                        <button className="flex justify-between items-center space-x-2 border border-primary px-2 sm:px-1 lg:px-3 py-3 text-primary-dark rounded-lg mt-4 sm:mt-0 lg:mt-4 xl:mt-0">
                             <img src={Calendar} alt="" />
-                            <p className="">29 Okt 2021 - 30 Okt 2021</p>
+                            <DatePicker
+                                className="outline-none text-center text-primary"
+                                dateFormat="d/MM/yyyy"
+                                selectsRange={true}
+                                startDate={startDate}
+                                endDate={endDate}
+                                placeholderText="Start Date - End Date"
+                                onChange={(update) => {
+                                    setDateRange(update);
+                                }}
+                            />
                             <img src={Downward} alt="" />
                         </button>
                     </div>
