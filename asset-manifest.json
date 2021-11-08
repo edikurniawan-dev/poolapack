@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/poolpack/static/css/main.a32e4474.chunk.css",
+    "main.js": "/poolpack/static/js/main.cd8f2aa0.chunk.js",
+    "main.js.map": "/poolpack/static/js/main.cd8f2aa0.chunk.js.map",
+    "runtime-main.js": "/poolpack/static/js/runtime-main.a22d7f66.js",
+    "runtime-main.js.map": "/poolpack/static/js/runtime-main.a22d7f66.js.map",
+    "static/js/2.ad79b407.chunk.js": "/poolpack/static/js/2.ad79b407.chunk.js",
+    "static/js/2.ad79b407.chunk.js.map": "/poolpack/static/js/2.ad79b407.chunk.js.map",
+    "static/js/3.3a73c7ce.chunk.js": "/poolpack/static/js/3.3a73c7ce.chunk.js",
+    "static/js/3.3a73c7ce.chunk.js.map": "/poolpack/static/js/3.3a73c7ce.chunk.js.map",
+    "index.html": "/poolpack/index.html",
+    "static/css/main.a32e4474.chunk.css.map": "/poolpack/static/css/main.a32e4474.chunk.css.map",
+    "static/js/2.ad79b407.chunk.js.LICENSE.txt": "/poolpack/static/js/2.ad79b407.chunk.js.LICENSE.txt",
+    "static/media/calendar.02f14ef6.svg": "/poolpack/static/media/calendar.02f14ef6.svg",
+    "static/media/downward.f1496233.svg": "/poolpack/static/media/downward.f1496233.svg",
+    "static/media/framecoin.9ea347e2.svg": "/poolpack/static/media/framecoin.9ea347e2.svg",
+    "static/media/refferal.30f01c74.svg": "/poolpack/static/media/refferal.30f01c74.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a22d7f66.js",
+    "static/js/2.ad79b407.chunk.js",
+    "static/css/main.a32e4474.chunk.css",
+    "static/js/main.cd8f2aa0.chunk.js"
+  ]
+}
