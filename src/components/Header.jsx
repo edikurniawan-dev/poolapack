@@ -1,9 +1,9 @@
 import React from 'react';
-import Logo from '../assets/logo.png';
+import Logo from '../assets/logo.svg';
 
 const Header = () => {
     return (
-        <div className="container mx-auto px-2 md:px-16 flex justify-between items-center h-28">
+        <div className="container mx-auto px-2 md:px-16 flex justify-between items-center h-20 md:h-28">
             <a href="/poolapack" className="">
                 <img src={Logo} alt="" />
             </a>

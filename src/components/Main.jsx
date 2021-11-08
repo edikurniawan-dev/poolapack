@@ -7,7 +7,7 @@ import Coint from '../assets/framecoin.svg';
 import Calendar from '../assets/calendar.svg';
 import Downward from '../assets/downward.svg';
 import Refferal from '../assets/refferal.svg';
-import Cashback from '../assets/cashback.png';
+import Cashback from '../assets/cashback.svg';
 
 const Main = () => {
     const [dateRange, setDateRange] = useState([null, null]);
@@ -15,7 +15,9 @@ const Main = () => {
 
     return (
         <div className="container mx-auto px-2 md:px-16 flex flex-col py-5">
-            <h2 className="text-larger font-bold mb-3">poolpoint</h2>
+            <h2 className="text-large md:text-larger font-bold mb-3">
+                poolpoint
+            </h2>
             <div className="flex justify-between flex-col lg:flex-row space-x-0 lg:space-x-5">
                 <div className="flex justify-between h-36 sm:h-40 w-full lg:w-96 bg-white rounded-xl py-5 px-5 lg:px-7 mb-5 lg:mb-0">
                     <div className="flex flex-wrap content-between w-44 ">
@@ -51,7 +53,7 @@ const Main = () => {
                         <button className="flex justify-between items-center space-x-2 border border-primary px-2 sm:px-1 lg:px-3 py-3 text-primary-dark rounded-lg mt-4 sm:mt-0 lg:mt-4 xl:mt-0">
                             <img src={Calendar} alt="" />
                             <DatePicker
-                                className="outline-none text-center text-primary"
+                                className="outline-none text-center text-primary z-0"
                                 dateFormat="d/MM/yyyy"
                                 selectsRange={true}
                                 startDate={startDate}
